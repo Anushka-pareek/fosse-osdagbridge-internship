@@ -72,11 +72,6 @@ It documents the problem statements, implementation approaches, technical decisi
 
 ![CAD Rendering](cad-preview.png)
 
-## Internship Documentation
-
-For a detailed explanation of the implementation, technical challenges and contributions, refer to the [Complete Internship Report](Internship-Report.pdf).
-
-
 ---
 
 **Anushka Pareek**  
