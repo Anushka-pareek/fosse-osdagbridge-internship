@@ -58,6 +58,24 @@ OsdagBridge is a PySide6-based desktop module of the Osdag platform, designed fo
 The complete internship report is available in this repository as `Internship-Report.pdf`.
 
 It documents the problem statements, implementation approaches, technical decisions, screenshots, code snippets and outcomes of my contributions.
+## Project Screenshots
+
+### 1. Custom Vehicle Load Diagrams
+
+![Custom Vehicle Diagrams](vehicle-diagrams.png)
+
+### 2. Dynamic Girder Highlighting
+
+![Dynamic Girder Highlighting](girder-highlighting.png)
+
+### 3. CAD Rendering Improvements
+
+![CAD Rendering](cad-preview.png)
+
+## Internship Documentation
+
+For a detailed explanation of the implementation, technical challenges and contributions, refer to the [Complete Internship Report](Internship-Report.pdf).
+
 
 ---
 
